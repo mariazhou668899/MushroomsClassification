@@ -25,3 +25,6 @@ https://www.kaggle.com/datasets/daniilonishchenko/mushrooms-images-classificatio
 ## Implementation Architecture
 ![](https://raw.githubusercontent.com/mariazhou668899/MushroomsClassification/main/data_flow.png)
 
+
+## Copyright © Maria Zhou 2024. All rights reserved.
+
