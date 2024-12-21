@@ -1,5 +1,3 @@
-# MushroomsClassification
-
 # Species Classification Using CNN: A Case Study on Mushrooms
 
 ## Problem Statement
